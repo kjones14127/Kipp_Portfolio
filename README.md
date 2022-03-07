@@ -9,6 +9,8 @@ Personal Projects of Interest
 •	Imported final dataset into Power BI, created other new fields using DAX for analysis and then completed dashboards addressing certain statistics based on career length 
 
 SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project2_SQL.sql
+
+Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project2_Data_Files.ipynb
    
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(7).png)
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png)
