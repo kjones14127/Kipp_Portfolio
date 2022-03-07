@@ -7,3 +7,5 @@ Personal Projects of Interest
 •	Imported final dataset into Power BI, created other new fields using DAX for analysis and then completed dashboards addressing certain statistics based on career length 
    
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Project2_PowerBI_Slide1.pdf
+
+https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Project2_PowerBI_Slide2.pdf
