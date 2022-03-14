@@ -11,8 +11,8 @@ Personal Projects of Interest
 SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project2_SQL.sql
 
 Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project2_Data_Files.ipynb
-   
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(7).png)
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png)
 
- 
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(7).png" width="700" height="400">
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png" width="700" height="400">
+
+
