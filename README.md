@@ -1,5 +1,5 @@
 # Kipp_Portfolio
-Personal Projects of Interest 
+Data Science Bootcamp Projects, Probono Work, & Projects of Interest 
 
 # Data Science Course Project 1 : Baseball Statistics based on Career Length
 •	Imported provided data sets into SQL Server and used ETL process to build necessary data structure needed for baseball statistical analysis  
