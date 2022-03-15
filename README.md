@@ -16,3 +16,9 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png" width="700" height="400">
 
 
+# Personal SQL Project : Against the Spread Sports Gambing Record Tool 
+•	Downloaded NBA sports gaming data from Kaggle and used ETL tools to build views in SQL Server for calculating ATS records after the All-Star break
+
+•	Imported all views into Power BI and built a tool to view how each team performed ATS starting from the All-Star break through the end of the regular season; also included team cover/loss record and total point differential of games covered, loss, or push 
+
+
