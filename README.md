@@ -21,4 +21,6 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 
 •	Imported all views into Power BI and built a tool to view how each team performed ATS starting from the All-Star break through the end of the regular season; also included team cover/loss record and total point differential of games covered, loss, or push 
 
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Final_Dashboard.png" width="700" height="400">
+
 
