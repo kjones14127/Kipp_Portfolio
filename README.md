@@ -16,7 +16,7 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png" width="700" height="400">
 
 
-# Personal SQL Project : Against the Spread Sports Gambing Record Tool 
+# Personal SQL Project : Against the Spread NBA Record Tool 
 •	Downloaded NBA sports gaming data from Kaggle and used ETL tools to build views in SQL Server for calculating ATS records after the All-Star break
 
 •	Imported all views into Power BI and built a tool to view how each team performed ATS starting from the All-Star break through the end of the regular season; also included team cover/loss record and total point differential of games covered, loss, or push 
@@ -24,5 +24,9 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/ATS_Rec_Attempt.sql
 
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Final_Dashboard.png" width="700" height="400">
+
+# Colorado Non Profit : Data cleanup project
+•	Reshaped and cleaned a salary survey data set from Colorado Non-Profit Organization comprised of 72 rows (Organizations) and 1,730 columns (repeating survey questions filled out by each employee) 
+•	Used pandas package in python to reshape and edit (missing data, nulls, incorrect data types, etc.) this dataset following CNP's data protocols to a well structured dataset comprised of only 26 columns and 4,312 rows
 
 
