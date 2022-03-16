@@ -27,6 +27,10 @@ SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/ATS_Rec_A
 
 # Colorado Non Profit : Data cleanup project
 •	Reshaped and cleaned a salary survey data set from Colorado Non-Profit Organization comprised of 72 rows (Organizations) and 1,730 columns (repeating survey questions filled out by each employee) 
+
 •	Used pandas package in python to reshape and edit (missing data, nulls, incorrect data types, etc.) this dataset following CNP's data protocols to a well structured dataset comprised of only 26 columns and 4,312 rows
+
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (22).png" width="700" height="400">
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (23).png" width="700" height="400">
 
 
