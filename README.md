@@ -30,8 +30,10 @@ SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/ATS_Rec_A
 
 •	Used pandas package in python to reshape and edit (missing data, nulls, incorrect data types, etc.) this dataset following CNP's data protocols to a well structured dataset comprised of only 26 columns and 4,312 rows
 
-Python code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Reshape_rename_columns.ipynb
-Python code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/additional_questions_ salary.ipynb
+Python code for cleanup/reshape: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Reshape_rename_columns.ipynb
+
+Python code Used other analytics: https://github.com/kjones14127/Kipp_Portfolio/blob/main/additional_questions_salary.ipynb
+
 # Raw Product
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (22).png" width="700" height="400">
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (23).png" width="700" height="400">
