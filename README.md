@@ -39,6 +39,6 @@ Python code Used other analytics: https://github.com/kjones14127/Kipp_Portfolio/
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/2.png)
 
 # Final Product
-<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (20).png" width="900" height="400">
-<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot (21).png" width="900" height="400">
+![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/3.png)
+![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/4.png)
 
