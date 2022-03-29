@@ -34,7 +34,7 @@ Python code for cleanup/reshape: https://github.com/kjones14127/Kipp_Portfolio/b
 
 Python code Used other analytics: https://github.com/kjones14127/Kipp_Portfolio/blob/main/additional_questions_salary.ipynb
 
-*click on images for better resolution
+*click on images below for better resolution
 # Raw Product
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/1.png)
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/2.png)
