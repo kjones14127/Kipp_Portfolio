@@ -15,6 +15,7 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(7).png" width="700" height="400">
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png" width="700" height="400">
 
+# Data Science Course Project 2 : Use Research Methods to find correlations amongst variables in a provided dataset to median home value in Boston, Massachusetts collected by the U.S Census Service. 
 
 # Personal SQL Project : Against the Spread NBA Record Tool 
 •	Downloaded NBA sports gaming data from Kaggle and used ETL tools to build views in SQL Server for calculating ATS records after the All-Star break
@@ -42,4 +43,6 @@ https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(23)
 # Final Product
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(20).png
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(21).png
+
+
 
