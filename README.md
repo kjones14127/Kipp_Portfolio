@@ -36,8 +36,7 @@ Python code Used other analytics: https://github.com/kjones14127/Kipp_Portfolio/
 
 *click on images below for better resolution
 # Raw Product
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/1.png)
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/2.png)
+https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(22).png
 
 # Final Product
 ![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/3.png)
