@@ -40,6 +40,6 @@ https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(22)
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(23).png
 
 # Final Product
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/3.png)
-![](https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/4.png)
+https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(20).png
+https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(21).png
 
