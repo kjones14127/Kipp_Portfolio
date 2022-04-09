@@ -18,6 +18,7 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 # Data Science Course Project 2 : Use Research Methods to find correlations amongst variables in a provided dataset to median home value in Boston, Massachusetts collected by the U.S Census Service. 
 
 Jupyter Notebooks Used:
+
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project3_Part1.ipynb
 https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project3_Part2.ipynb
 
