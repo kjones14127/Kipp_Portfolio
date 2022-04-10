@@ -15,7 +15,7 @@ Python Workbook: https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(7).png" width="700" height="400">
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Screenshot%20(8).png" width="700" height="400">
 
-# Data Science Course Project 2 : Use Research Methods to find correlations amongst variables in a provided dataset to median home value in Boston, Massachusetts collected by the U.S Census Service. 
+# Data Science Bootcamp Project 2 : Use Research Methods to find correlations amongst crime rates and median home values in a provided dataset for Boston, Massachusetts collected by the U.S Census Service. 
 
 Jupyter Notebooks Used:
 
