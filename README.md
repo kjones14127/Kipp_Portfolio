@@ -24,6 +24,8 @@ https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project3_Part2.ipynb
 
 # Personal Power BI Project : Rideshare Comparison Dashboard
 
+<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/UberLyftDash.pdf" width="700" height="400">
+
 
 # Personal SQL Project : Against the Spread NBA Record Tool 
 •	Downloaded NBA sports gaming data from Kaggle and used ETL tools to build views in SQL Server for calculating ATS records after the All-Star break
