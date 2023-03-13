@@ -29,8 +29,6 @@ https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project3_Part2.ipynb
 
 SQL code Used: https://github.com/kjones14127/Kipp_Portfolio/blob/main/ATS_Rec_Attempt.sql
 
-<img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/Final_Dashboard.png" width="700" height="400">
-
 # Colorado Non Profit : Data cleanup project
 •	Reshaped and cleaned a salary survey data set from Colorado Non-Profit Organization comprised of 72 rows (Organizations) and 1,730 columns (repeating survey questions filled out by each employee) 
 
