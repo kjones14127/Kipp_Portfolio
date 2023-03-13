@@ -24,6 +24,7 @@ https://github.com/kjones14127/Kipp_Portfolio/blob/main/Project3_Part2.ipynb
 
 # Personal Power BI Project : Rideshare Comparison Dashboard
 
+
 <img src="https://github.com/kjones14127/Kipp_Portfolio/blob/main/Images/UberLyftDash.jpg" width="700" height="400">
 
 
